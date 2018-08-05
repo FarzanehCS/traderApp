@@ -86,6 +86,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Special Thanks to .....
+* Special Thanks to [DarwinexLabs](https://github.com/darwinex/DarwinexLabs)
 * Inspiration
-* 
+* etc
