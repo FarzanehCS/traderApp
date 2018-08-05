@@ -1,21 +1,22 @@
-# traderApp
-# traderApp
-# trading
-# Project Title
+# TraderApp
 
-One Paragraph of project description goes here
+This application is intended to be a bot that can trade on stock/forex market by
+making a socket connection to the brokers application(more specifically Meta Trader
+which is one of the most trading platforms on market and is widely used by brokers).
+The bot will be able to automatically trade( take BUY/SELL positions and also
+close them appropriately). The user who wants to set the bot on his/her trading account
+should chose one method of trading for the bot. Currently trading str that are used for their broker
+strategies Neural Network and MCD and another mathematical strategies based on numbers.
+
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You need to have Meta Trader 4 or 5 installed on your computer before using this bot.
+For installing Meta Trader you can visit [MQL5 website](www.mql5.com) .
 
-```
-Give examples
-```
 
 ### Installing
 
@@ -71,7 +72,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
@@ -85,7 +86,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* Special Thanks to .....
 * Inspiration
 * etc
-
