@@ -1,22 +1,18 @@
-# TraderApp
+# My Personal Website
 
-This application is intended to be a bot that can trade on stock/forex market by
-making a socket connection to the brokers application(more specifically Meta Trader
-which is one of the most trading platforms on market and is widely used by brokers).
-The bot will be able to automatically trade( take BUY/SELL positions and also
-close them appropriately). The user who wants to set the bot on his/her trading account
-should chose one method of trading for the bot. Currently trading str that are used for their broker
-strategies Neural Network and MCD and another mathematical strategies based on numbers.
-
+This repository is my website hosted on github pages.
 
 ## Getting Started
 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-You need to have Meta Trader 4 or 5 installed on your computer before using this bot.
-For installing Meta Trader you can visit [MQL5 website](www.mql5.com) .
+What things you need to install the software and how to install them
 
+```
+Give examples
+```
 
 ### Installing
 
@@ -86,6 +82,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Special Thanks to .....
+* Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+
